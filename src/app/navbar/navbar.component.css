@@ -1,0 +1,23 @@
+navbar{
+    background-color: transparent !important;
+  
+}
+.navbar  .nav-item .nav-link{
+    color: blueviolet !important;
+}
+
+.navbar  .nav-item .nav-link:hover{
+    color: deeppink !important;
+    border-bottom: 2px solid firebrick ;
+  
+}
+
+.navbar .navbar-brand{
+    font-size: 40px;
+}
+
+.nav .nav-link .fas{
+    color: lightseagreen;
+   font-size: 1.30em;
+   width: 25px;
+}
