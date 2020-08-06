@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-# Description : ( Composantes su project ) 
+# Description : ( Composantes sur project ) 
 
 + Consommer  API React avec les services
 
