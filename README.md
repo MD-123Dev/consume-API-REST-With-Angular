@@ -1,10 +1,10 @@
-# angular and api react
+# angular and API REST
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 # Description : ( Composantes sur project ) 
 
-+ Consommer  API React avec les services
++ Consommer API REST avec les services
 
 + Routage et Navigabilité avec angular
 
