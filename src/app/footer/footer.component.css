@@ -3,3 +3,21 @@
       margin-top: 25px;
   }
   
+.sty-icon-fb{
+  font-size: 31px;
+  color:blue;
+  padding:5px;
+  margin-left:30px;
+}
+
+.sty-icon-twi {
+    font-size: 31px;
+    color:rgb(14, 180, 158);
+    padding:5px;
+}
+
+.sty-icon-inst {
+  font-size: 31px;
+  color:rgb(226, 112, 112);
+  padding:5px;
+}

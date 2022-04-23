@@ -1,4 +1,4 @@
-navbar{
+.navbar{
     background-color: transparent !important;
   
 }
@@ -20,4 +20,9 @@ navbar{
     color: lightseagreen;
    font-size: 1.30em;
    width: 25px;
+}
+
+.sty-icon {
+     font-size:25px;
+     padding-right: 8px;
 }
