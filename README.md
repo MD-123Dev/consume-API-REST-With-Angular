@@ -2,12 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
+# Vodio : 
+
+https://user-images.githubusercontent.com/43389513/164858325-a5cd0a33-668c-41cb-be57-45a7c6c2c601.mp4
+
+
 # Description : ( Composantes sur project ) 
 
 + Consommer API REST avec les services
 
 + Routage et Navigabilité avec angular
 
++ use bootstrap and fontAwesome
+
+.....
 
 ## Development server
 
